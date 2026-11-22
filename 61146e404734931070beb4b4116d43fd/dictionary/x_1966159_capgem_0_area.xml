@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="cd17e6c44734931070beb4b4116d43e6" label="Area" max_length="40" name="x_1966159_capgem_0_area" type="collection"/>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="cd17e6c44734931070beb4b4116d43e6" label="Area" max_length="40" name="x_1966159_capgem_0_area" type="collection">
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
 </database>

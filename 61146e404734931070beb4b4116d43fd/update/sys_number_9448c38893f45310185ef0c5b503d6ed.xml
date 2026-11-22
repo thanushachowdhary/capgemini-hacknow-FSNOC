@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1966159_capgem_0_area">x_1966159_capgem_0_area</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>ARE</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-22 06:45:28</sys_created_on>
+        <sys_id>9448c38893f45310185ef0c5b503d6ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ARE</sys_name>
+        <sys_package display_value="Capgemini-hacknow_fsnoc" source="x_1966159_capgem_0">61146e404734931070beb4b4116d43fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capgemini-hacknow_fsnoc">61146e404734931070beb4b4116d43fd</sys_scope>
+        <sys_update_name>sys_number_9448c38893f45310185ef0c5b503d6ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-22 06:45:28</sys_updated_on>
+    </sys_number>
+</record_update>
